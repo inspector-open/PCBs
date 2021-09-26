@@ -1,6 +1,3 @@
-# PCBs
-Repository for schematics and PCBs
-
 # Aim
 
 The main aim of this project is to explore the field of remote-control Internet access PCB inspection tools. The main problem of this area that, to the best of our knowledge, there is no such device that would use Internet or any other protocol to share images of the inspected PCB and to probe different points of circuitry at the same time. We intend to base our design on the existing base of open-source products, such as microscopes, mechatronic tools and instruments and their software integration. 
